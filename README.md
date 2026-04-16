@@ -7,8 +7,8 @@ Estudiante
 
 # Original vs Resultado
 
-![Comparación del sitio original](img/Original.png)
-![vs el clon desarrollado](img/Resultado.png)
+![Comparación del sitio original](src/img/Original.png)
+![vs el clon desarrollado](src/img/Resultado.png)
 
 # Sitio
  https://github.com/Naillel/tarea-1.git
